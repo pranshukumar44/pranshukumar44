@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranshukumar44
 - 👀 I’m interested in knowledge
-- 🌱 I’m currently learning java, python 
-- 😄 Pronouns: normal male
+- 🌱 I’m currently learning java and JavaScript. 
+- 😄 Pronouns: male
 - ⚡ Fun fact: watches are cool .
 
 <!---
